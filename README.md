@@ -22,18 +22,18 @@ By the end of this course, you will be able to:
 
 | Week | Done | Module | Topics |
 |------|---|---------|--------|
-| 1 | **Python Fundamentals** | Syntax, variables, types, loops, conditionals, functions |
-| 2 | **Data Structures & Logic** | Lists, tuples, sets, dictionaries, comprehensions, error handling |
-| 3 | **Modules & Environments** | Packages, `pip`, virtual environments, importing and organizing code |
-| 4 | **File & Data Handling** | Reading/writing files, JSON, CSV, handling input/output |
-| 5 | **Object-Oriented Programming (OOP)** | Classes, objects, inheritance, encapsulation |
-| 6 | **Intro to Web Development** | HTTP basics, client-server model, REST concepts |
-| 7 | **Flask Fundamentals** | Routes, templates, static files, forms, Jinja2, sessions |
-| 8 | **Flask Advanced Topics** | Blueprints, database (SQLAlchemy), REST APIs, authentication |
-| 9 | **Intro to Django** | MVC architecture, URLs, models, templates, admin site |
-| 10 | **Databases & ORM** | SQL basics, migrations, Django ORM, CRUD operations |
-| 11 | **APIs & Integration** | Consuming and creating REST APIs, JSON handling |
-| 12 | **Deployment & DevOps Basics** | Environment variables, Gunicorn, Nginx, Docker, hosting (Render, Railway, etc.) |
+| 1 | | **Python Fundamentals** | Syntax, variables, types, loops, conditionals, functions |
+| 2 | | **Data Structures & Logic** | Lists, tuples, sets, dictionaries, comprehensions, error handling |
+| 3 | | **Modules & Environments** | Packages, `pip`, virtual environments, importing and organizing code |
+| 4 | | **File & Data Handling** | Reading/writing files, JSON, CSV, handling input/output |
+| 5 | | **Object-Oriented Programming (OOP)** | Classes, objects, inheritance, encapsulation |
+| 6 | | **Intro to Web Development** | HTTP basics, client-server model, REST concepts |
+| 7 | | **Flask Fundamentals** | Routes, templates, static files, forms, Jinja2, sessions |
+| 8 | | **Flask Advanced Topics** | Blueprints, database (SQLAlchemy), REST APIs, authentication |
+| 9 | | **Intro to Django** | MVC architecture, URLs, models, templates, admin site |
+| 10 | | **Databases & ORM** | SQL basics, migrations, Django ORM, CRUD operations |
+| 11 | | **APIs & Integration** | Consuming and creating REST APIs, JSON handling |
+| 12 | | **Deployment & DevOps Basics** | Environment variables, Gunicorn, Nginx, Docker, hosting (Render, Railway, etc.) |
 
 ---
 
