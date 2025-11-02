@@ -20,7 +20,7 @@ By the end of this course, you will be able to:
 
 ## 🗓️ Curriculum Overview
 
-| Week | Module | Topics |
+| Week | Done | Module | Topics |
 |------|---------|--------|
 | 1 | **Python Fundamentals** | Syntax, variables, types, loops, conditionals, functions |
 | 2 | **Data Structures & Logic** | Lists, tuples, sets, dictionaries, comprehensions, error handling |
