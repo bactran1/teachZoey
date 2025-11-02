@@ -1,4 +1,4 @@
-### teach blue @ss Zoey how to code
+# teach blue @ss Zoey how to code
 
 # 🐍 Python for Web Engineers — Beginner Curriculum
 
