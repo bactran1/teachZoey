@@ -1,5 +1,5 @@
-# teachZoey
-blueAss
+### teach blue @ss Zoey how to code
+
 # 🐍 Python for Web Engineers — Beginner Curriculum
 
 Welcome to the **Python for Website Engineers** learning path!  
